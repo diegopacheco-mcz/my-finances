@@ -11,3 +11,5 @@ Este é o repositório para o projeto pessoal do My Finances!
   A monetirização do APP dar-se-á através de anuncios de classificados na versão FREE;
   A VIP não terá anúncios e para tal o usuário deverá comprar a licença anual.
 
+
+Para maiores informações acesse [diegopacheco.com.br](http://diegopacheco.com.br)
