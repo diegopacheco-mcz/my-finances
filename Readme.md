@@ -17,4 +17,4 @@ Para maiores informações acesse [diegopacheco.com.br](http://diegopacheco.com.
 
 Você pode contrinuir com o desenvolvimento deste projeto realizando uma doação ou até mesmo com um convite para um café ;)
 
-[![paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AEMQXKW3Y248S&source=url)]
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AEMQXKW3Y248S&source=url)
